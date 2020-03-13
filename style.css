@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.total{
+  /* text-transform: capitalize; */
+  font-size: 25px;
+  font-family: tahoma;
+  width: 80%;
+  height: 40px;
+  margin: auto;
+
+}
+header{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  padding: 60px 0;
+  text-align: center;
+  margin: auto;
+
+}
+.container{
+    color: aliceblue;
+  text-align: center;
+  width: 100%;
+padding: 100px 300px;
+  background-color:#333;
+}
+input{
+  width: 500px;
+  padding: 10px ;
+  border-radius: 50px;
+  border:2px solid #333;
+  
+}
